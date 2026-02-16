@@ -4,4 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="custom_button_color">#686a6b</color>
     <color name="custom_ripple_color">#56d264</color>
+    <color name="custom_clear_ripple_color">#FF0000</color>
+    <color name="custom_clear_color">#8B0000</color>
+    <color name="custom_ok_color">#006400</color>
+    <color name="custom_ok_ripple_color">#008000</color>
 </resources>
